@@ -1,4 +1,4 @@
-#Artisan Web App
+#Monalisa Web App
 
 <p>  A Simple beauty website and blog built with Laravel + Vue.js </p>
 
